@@ -1,9 +1,10 @@
 ## Hi there 👋, I'm Muhammad Rajman  
 
-### 🚀 Web Developer | 🌱 Learner | 🛠️ Builder
+### 🚀 Web Developer | 🌱 Continuous Learner | 🛠️ Builder
 
-Saya adalah seorang **Web Developer** yang berfokus pada pengembangan aplikasi berbasis web menggunakan **Laravel**, **PHP**, dan **Bootstrap**.  
-Saya suka membangun project nyata, meng-upload ke GitHub, dan terus belajar teknologi baru untuk berkembang menjadi developer yang lebih baik.
+Saya adalah seorang **Web Developer** yang berfokus pada pengembangan aplikasi web menggunakan  
+**Laravel**, **PHP**, serta modern CSS framework seperti **Tailwind CSS**.  
+Saya senang membangun project nyata, mengelolanya di GitHub, dan terus belajar teknologi baru untuk meningkatkan skill sebagai developer.
 
 ---
 
@@ -11,6 +12,7 @@ Saya suka membangun project nyata, meng-upload ke GitHub, dan terus belajar tekn
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -23,16 +25,21 @@ Saya suka membangun project nyata, meng-upload ke GitHub, dan terus belajar tekn
 ---
 
 ### 📝 About Me
-- 🔭 Saat ini fokus membuat project **Laravel & PHP**  
-- 🌱 Sedang belajar **JavaScript & TypeScript**  
-- 🚀 Tujuan jangka panjang: menjadi Fullstack Web Developer  
-- 📫 Hubungi saya: [LinkedIn](#) | [Instagram](#) | [Email](mailto:emailmu@email.com)
+- 🔭 Fokus membangun project **Laravel (Monolith & CRUD Apps)**  
+- 🎨 Menggunakan **Tailwind CSS** untuk UI yang clean & responsive  
+- 🌱 Sedang mendalami **JavaScript & TypeScript**  
+- 🚀 Target: **Fullstack Web Developer**
+
+📫 Hubungi saya:  
+- 💼 [LinkedIn](#)  
+- 📸 [Instagram](#)  
+- ✉️ [Email](#)
 
 ---
 
 ### 🧠 Fun Fact
-> “Code, Learn, Repeat — Setiap baris kode membawamu lebih dekat ke impianmu 💻✨”
+> “Code, Learn, Improve — konsistensi kecil hari ini adalah skill besar di masa depan 💻🔥”
 
 ---
 
-⭐ **Jangan lupa follow dan cek project saya!**  
+⭐ Jangan lupa follow dan cek repository project saya!
